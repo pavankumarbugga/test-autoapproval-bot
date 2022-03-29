@@ -1,9 +1,7 @@
-
-   
 _extends: github-settings
 
 from_owner: 
-  - pavankumarbugga
+  - dependabot[bot]
 
 required_labels: 
   - dependencies
