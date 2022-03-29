@@ -1,0 +1,15 @@
+
+   
+_extends: github-settings
+
+from_owner: 
+  - pavankumarbugga
+
+required_labels: 
+  - dependencies
+
+blacklisted_labels:
+  - wip
+
+apply_labels:
+  - merge
